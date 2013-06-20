@@ -1,10 +1,10 @@
 All times are EST. Let the horror begin.
 
 --- 20 June 2013 5:15 PM ---
-< swillits> Hmm. Mobile GPUs are really slow
-< swillits> 2 years newer and still 3x slower
-< NCarter> It's because they're flat.
-< NCarter> How can you do fast 3D in a flat GPU.
+<swillits> Hmm. Mobile GPUs are really slow
+<swillits> 2 years newer and still 3x slower
+<NCarter> It's because they're flat.
+<NCarter> How can you do fast 3D in a flat GPU.
 
 --- 2 February 2013 3:15 PM ---
 <QcMat> lol I was working on my platformer, character died with saw blade, respawned
