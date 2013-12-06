@@ -7,7 +7,7 @@ All times are EST. Let the horror begin.
     <Raws> time
     <Raws> https://www.youtube.com/watch?v=dfqaZ1hqXio
     <Raws> matter
-    <cmiller>thyme does matter. it's an important spice
+    <cmiller> thyme does matter. it's an important spice
     <KatieHuber> sage wisdom
     <swillits> ha.
     <swillits> are those chicken nuggets?
