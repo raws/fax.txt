@@ -1,5 +1,35 @@
 All times are EST. Let the horror begin.
 
+##### 2 December 2013 8:15 PM
+
+    <Raws> does time matter
+    <Raws> does
+    <Raws> time
+    <Raws> https://www.youtube.com/watch?v=dfqaZ1hqXio
+    <Raws> matter
+    <cmiller> thyme does matter. it's an important spice
+    <KatieHuber> sage wisdom
+    <swillits> ha.
+    <swillits> are those chicken nuggets?
+    <swillits> did I really watch that entire thing
+    <KatieHuber> I only watched it parsley
+    <KatieHuber> I cayenne imagine why anyone would watch the whole thing
+    <Raws> it's a salt on the senses
+    <swillits> Excuse me. I mustard.
+    <KatieHuber> Nobody else wants to curry flavor with me with allspice puns?
+    <swillits> I rue this conversation.
+    <KatieHuber> sorrel :(
+    <KatieHuber> anise time for me to go, anyway
+    <swillits> It's peppered with gems, but by no means is it mint.
+ 
+##### 20 November 2013 11:21 PM
+
+    <ThemsAllTook> garget!
+    <cmiller> inflammation of a cow's or ewe's udder?
+    <TheBunny> ha
+    <ThemsAllTook> Oh wow, it's a word
+    <cmiller> lol
+
 ##### 20 June 2013 5:15 PM
 
     <swillits> Hmm. Mobile GPUs are really slow
@@ -40,6 +70,10 @@ All times are EST. Let the horror begin.
     <monodemono> It took approximately 7 minutes to delete 2 megs though, so you can see why I was a bit baffled.
     <ElMonkey> you're just too impatient
     <ElMonkey> you should be grateful for any operation that takes less than half a week
+
+##### 17 December 2010 6:00 AM
+
+    *** cmiller is a bulimic memory user - binge and purge all the way!
 
 ##### 30 November 2010 2:40 PM
 
