@@ -1,6 +1,6 @@
 All times are EST. Let the horror begin.
 
-##### 20 December 20131:48 PM
+##### 20 December 2013 1:48 PM
 
     <Raws> I need to go bail him out
     <Raws> and assist the police in confiscating all of his firearms
