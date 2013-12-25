@@ -5,6 +5,12 @@ All times are EST. Let the horror begin.
     <skyhawk2891> children are like... walking virus bags
     <skyhawk2891> I like to expose myself to them on occasion
 
+##### 20 December 2013 1:48 PM
+
+    <Raws> I need to go bail him out
+    <Raws> and assist the police in confiscating all of his firearms
+    <skyhawk2891> and vacation now begins!
+
 ##### 7 December 2013 1:29 PM
 
     <Raws> 𝕓𝕒𝕝𝕝𝕤 𝚋𝚊𝚕𝚕𝚜 𝖻𝖺𝗅𝗅𝗌 𝘣𝘢𝘭𝘭𝘴 𝗯𝗮𝗹𝗹𝘀 𝙗𝙖𝙡𝙡𝙨 𝒷𝒶𝓁𝓁𝓈 𝑏𝑎𝑙𝑙𝑠 𝐛𝐚𝐥𝐥𝐬 𝒃𝒂𝒍𝒍𝒔 𝔟𝔞𝔩𝔩𝔰 𝖇𝖆𝖑𝖑𝖘
