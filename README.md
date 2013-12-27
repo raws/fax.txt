@@ -1,5 +1,13 @@
 All times are EST. Let the horror begin.
 
+##### 27 December 2013 1:40 PM
+
+    <taxxodium> are you brits familiar with the Nuts
+    <alexsikora> are you nuts familiar with the brits
+    <cmiller> are you familiar nuts with the magazine
+    <alexsikora> are magazine familiar brits you with
+    <Raws> familiar with the brits magazine, are you? nuts
+
 ##### 24 December 2013 3:08 PM
 
     <skyhawk2891> children are like... walking virus bags
