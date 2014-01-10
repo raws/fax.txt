@@ -1,5 +1,9 @@
 All times are EST. Let the horror begin.
 
+##### 10 January 2014 4:27 PM
+
+    <Raws> I want a strong woman who isn't afraid to set my cache policy
+
 ##### 24 December 2013 3:08 PM
 
     <skyhawk2891> children are like... walking virus bags
