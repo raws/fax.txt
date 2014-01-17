@@ -1,5 +1,12 @@
 All times are EST. Let the horror begin.
 
+##### 15 January 2014 4:31 PM
+
+    <swillits> well that's interesting. stopping on that breakpoint made the entire OS stop responding to the keyboard…
+    <cmiller> Given that you're typing here, I can infer that you fixed the problem?
+    <swillits> no, this is my telepathic input device.
+    <swillits> it's BLEUBERRYIWES very harMUSTANGd to control
+
 ##### 10 January 2014 4:27 PM
 
     <Raws> I want a strong woman who isn't afraid to set my cache policy
