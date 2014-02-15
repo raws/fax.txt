@@ -1,5 +1,9 @@
 All times are EST. Let the horror begin.
 
+##### 15 February 2014 2:33 AM
+
+    <KatieHuber> crap the building is trying to eat me again
+
 ##### 15 January 2014 4:31 PM
 
     <swillits> well that's interesting. stopping on that breakpoint made the entire OS stop responding to the keyboard…
