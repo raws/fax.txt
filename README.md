@@ -1,5 +1,10 @@
 All times are EST. Let the horror begin.
 
+##### 19 February 2014, 6:25 PM
+
+    <Raws> my girlfriend and I use it, since there's an ocean between us
+    <swillits> oh so that's what a tail call looks like
+
 ##### 15 February 2014 2:33 AM
 
     <KatieHuber> crap the building is trying to eat me again
