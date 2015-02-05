@@ -1,5 +1,10 @@
 All times are EST. Let the horror begin.
 
+##### 4 Feb 2015 6.59 PM
+
+    <mercy____> someone needs to invent a robot that will feed you the kind of messy finger foods you can't normally eat while coding
+    <mercy____> doritos, buttery poopcorn, etc.
+
 ##### 8 April 2014 4:18 PM
 
     <alexsikora> unce unce unce unce
