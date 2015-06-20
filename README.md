@@ -4,7 +4,7 @@ All times are EST. Let the horror begin.
 
     <raws> what is a dude sock
 
-##### 4 Feb 2015 6.59 PM
+##### 4 February 2015 6:59 PM
 
     <mercy____> someone needs to invent a robot that will feed you the kind of messy finger foods you can't normally eat while coding
     <mercy____> doritos, buttery poopcorn, etc.
