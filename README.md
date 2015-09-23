@@ -1,5 +1,9 @@
 All times are EST. Let the horror begin.
 
+##### 23 September 2015 3:39 PM
+
+    <mercy____> you've convinced me. i'm going to go out and try to reproduce as much as possible
+
 ##### 20 June 2015 1:59 AM
 
     <raws> what is a dude sock
