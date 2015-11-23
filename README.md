@@ -1,5 +1,11 @@
 All times are EST. Let the horror begin.
 
+##### 24 November 2015 3.06 PM
+
+    <TheBunny> cute
+    <swillits> I am, aren't I.
+    <Cassie> In a non-Euclidean way, sure
+
 ##### 8 November 2015 12:48 PM
 
     <TheBunny> I read the internet
