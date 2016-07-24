@@ -1,6 +1,16 @@
 All times are EST. Let the horror begin.
 
-##### 24 November 2015 3.06 PM
+##### 24 July 2016 4:21 AM
+
+    <swillits> i've had multiple vacation plans go up in smoke due to wildfires in the last decade.
+    <`teh1> ha ha. i see what you did there. ha.
+    <swillits> kinda makes you get choked up when it happens.
+    <`teh1> sounds like you've been burned one too many times
+    <swillits> yeah. But it does afford the opportunity to blaze new trails, and go somewhere new.
+    <`teh1> good way to ignite your exploratory spirit
+    <swillits> I think it's time to extinguish this line of puns.
+
+##### 24 November 2015 3:06 PM
 
     <TheBunny> cute
     <swillits> I am, aren't I.
