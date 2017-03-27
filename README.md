@@ -1,5 +1,16 @@
 All times are EST. Let the horror begin.
 
+##### 27 March 2017 2:36 AM
+
+    <`teh1> KatieHuber:  figure out that prob yet
+    <`teh1> the anal retention one
+    <KatieHuber> o_O
+    <KatieHuber> what
+    <KatieHuber> whaaaaaaat
+    <KatieHuber> what
+    <KatieHuber> O_o
+    <`teh1> er, typo, sry. singleton* retention
+
 ##### 24 July 2016 4:21 AM
 
     <swillits> i've had multiple vacation plans go up in smoke due to wildfires in the last decade.
