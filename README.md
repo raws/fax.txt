@@ -1,5 +1,12 @@
 All times are EST. Let the horror begin.
 
+##### 28 June 2017 2:20 PM
+
+    <TheBunny> DRUGS NEED TO SOAK INTO THE BLOOD STEAM FIRST
+    <TheBunny> and then I can debug
+    <TheBunny> Oh I made 1$
+    <TheBunny> thanks china
+
 ##### 27 March 2017 2:36 AM
 
     <`teh1> KatieHuber:  figure out that prob yet
