@@ -1,5 +1,9 @@
 All times are EST. Let the horror begin.
 
+##### 28 July 2017 8:24 PM
+
+    <ThemsAllTook> OK. Camera 2 mounted directly in the poop zone. You won't get away from me this time!
+
 ##### 28 June 2017 2:20 PM
 
     <TheBunny> DRUGS NEED TO SOAK INTO THE BLOOD STEAM FIRST
