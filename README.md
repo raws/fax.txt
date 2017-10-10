@@ -1,5 +1,10 @@
 All times are EST. Let the horror begin.
 
+##### 9 October 2017 10:24 PM
+
+    <ThemsAllTook> Genitals
+    <ThemsAllTook> They're complicated
+
 ##### 28 July 2017 8:24 PM
 
     <ThemsAllTook> OK. Camera 2 mounted directly in the poop zone. You won't get away from me this time!
