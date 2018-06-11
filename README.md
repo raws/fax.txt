@@ -1,5 +1,11 @@
 All times are EST. Let the horror begin.
 
+##### 11 June 2018 4:31 PM
+
+    <HelgaIronic> the very first website i went to was Yahoo though
+    <raws> my first was www.idevelopmacintoshvideogames.com
+    <swillits> stupid idea for a website
+
 ##### 9 October 2017 10:24 PM
 
     <ThemsAllTook> Genitals
