@@ -1,5 +1,11 @@
 All times are EST. Let the horror begin.
 
+##### 17 January 2019 6:18 PM
+
+    <mercy____> goddamn i'm getting old
+    <mercy____> does anyone know of a way to stop this process?
+    <NCarter> Yes, but I don't recommend it.
+
 ##### 11 June 2018 4:31 PM
 
     <HelgaIronic> the very first website i went to was Yahoo though
