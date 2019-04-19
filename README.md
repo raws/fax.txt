@@ -1,5 +1,10 @@
 All times are EST. Let the horror begin.
 
+##### 19 April 2019 1:31 PM
+
+    <NCarter> Hah, my old PowerMac 7300 still works!
+    <NCarter> GraphicConverter says "you've been using this software for 5378 days".
+
 ##### 28 February 2019 4:52 PM
 
     <NCarter> Is there such a thing as cat pants?
