@@ -1,5 +1,10 @@
 All times are EST. Let the horror begin.
 
+##### 1 October 2020 7:03 PM
+
+    <NCarter> What it needs first of all is a pair of spatulas jammed into its underside.
+    <NCarter> I've done this multiple times and it's always awful.
+
 ##### 19 April 2019 1:31 PM
 
     <NCarter> Hah, my old PowerMac 7300 still works!
