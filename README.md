@@ -2,7 +2,7 @@ All times are EST. Let the horror begin.
 
 ##### 14 April 2020 7:30 PM
 
-    <slembcke> massages cheddar into @mysteriouspants 's hair
+    <slembcke> massages cheddar into @mysteriouspants's hair
 
 ##### 19 April 2019 1:31 PM
 
