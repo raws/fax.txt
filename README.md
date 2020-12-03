@@ -1,5 +1,9 @@
 All times are EST. Let the horror begin.
 
+##### 3 December 2020 4:47 PM
+
+    <flagoworld> repinning is a pin in the ass
+
 ##### 1 October 2020 7:03 PM
 
     <NCarter> What it needs first of all is a pair of spatulas jammed into its underside.
