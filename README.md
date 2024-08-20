@@ -1,5 +1,10 @@
 All times are EST. Let the horror begin.
 
+##### 20 August 2024 4:16 PM
+
+    <TheBunny> I WANT TO KNOW ABOUT THE DICK SUCKING?
+    <TheCire> fuck you
+
 ##### 1 October 2020 7:03 PM
 
     <NCarter> What it needs first of all is a pair of spatulas jammed into its underside.
