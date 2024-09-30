@@ -1,5 +1,10 @@
 All times are EST. Let the horror begin.
 
+##### 30 September 2024 1:40 PM
+
+    <NCarter> The main problem with documentation these days is that it isn't pornographic enough.
+    <NCarter> And that's why no-one reads it.
+
 ##### 20 August 2024 4:16 PM
 
     <TheBunny> I WANT TO KNOW ABOUT THE DICK SUCKING?
