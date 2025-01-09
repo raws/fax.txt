@@ -1,5 +1,12 @@
 All times are EST. Let the horror begin.
 
+##### 9 January 2025 11:04 AM
+
+    <swillits> "Drug Stores" always sold more than drugs, and then the name changed to pharmacy.
+    <phlogios> in Sweden we say "Apotek"
+    <phlogios> and they sell medicine and dildos
+    <phlogios> and mustard
+
 ##### 30 September 2024 1:40 PM
 
     <NCarter> The main problem with documentation these days is that it isn't pornographic enough.
