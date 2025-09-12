@@ -1,5 +1,12 @@
 All times are EST. Let the horror begin.
 
+##### 12 September 2025 1:30 PM
+
+    <NCarter> You could have 66 abortions instead of that GPU _and_ make the government sad about the ageing population problem.
+    <TheBunny> don't tease me witha. good time
+
+([source](https://discord.com/channels/488890763720130560/488890763720130562/1416113834611183678))
+
 ##### 9 January 2025 11:04 AM
 
     <swillits> "Drug Stores" always sold more than drugs, and then the name changed to pharmacy.
