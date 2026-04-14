@@ -8,7 +8,7 @@ from pathlib import Path
 README = Path(__file__).parent.parent / "README.md"
 OUTPUT = Path(__file__).parent.parent / "fax.json"
 
-HEADER = re.compile(r"^##### (.+)$")
+HEADER = re.compile(r"^### (.+)$")
 INDENTED = re.compile(r"^    (.+)$")
 MESSAGE = re.compile(r"^<([^>]+)> *(.*)")
 ACTION = re.compile(r"^\*+ *(?:<([^>]+)>|(\S+)) *(.*)")
