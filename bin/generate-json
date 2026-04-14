@@ -13,6 +13,7 @@ INDENTED = re.compile(r"^    (.+)$")
 MESSAGE = re.compile(r"^<([^>]+)> *(.*)")
 ACTION = re.compile(r"^\*+ *(?:<([^>]+)>|(\S+)) *(.*)")
 COMMENT = re.compile(r"^\((.+)\)$")
+SOURCE = re.compile(r"^\(\[source\]\(([^)]+)\)\)$")
 
 
 def parse_timestamp(header):
@@ -40,19 +41,30 @@ def parse_line(line):
 quotes = []
 current_at = None
 current_lines = []
+current_source = None
+
+
+def flush():
+    if current_at and current_lines:
+        quote = {"at": current_at, "lines": current_lines}
+        if current_source:
+            quote["source"] = current_source
+        quotes.append(quote)
+
 
 for raw in README.read_text().splitlines():
     if m := HEADER.match(raw):
-        if current_at and current_lines:
-            quotes.append({"at": current_at, "lines": current_lines})
+        flush()
         current_at = parse_timestamp(m.group(1))
         current_lines = []
+        current_source = None
+    elif m := SOURCE.match(raw):
+        current_source = m.group(1)
     elif m := INDENTED.match(raw):
         if obj := parse_line(m.group(1)):
             current_lines.append(obj)
 
-if current_at and current_lines:
-    quotes.append({"at": current_at, "lines": current_lines})
+flush()
 
 OUTPUT.write_text(json.dumps(quotes, indent=2, ensure_ascii=False) + "\n")
 print(f"Written to {OUTPUT}")
