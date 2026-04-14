@@ -5,7 +5,7 @@ import sys
 from datetime import datetime
 from pathlib import Path
 
-README = Path(__file__).parent.parent / "README.md"
+INPUT = Path(__file__).parent.parent / "fax.md"
 OUTPUT = Path(__file__).parent.parent / "fax.json"
 
 HEADER = re.compile(r"^### (.+)$")
@@ -52,7 +52,7 @@ def flush():
         quotes.append(quote)
 
 
-for raw in README.read_text().splitlines():
+for raw in INPUT.read_text().splitlines():
     if m := HEADER.match(raw):
         flush()
         current_at = parse_timestamp(m.group(1))
