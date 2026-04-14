@@ -1,5 +1,12 @@
 All times are UTC. Let the horror begin.
 
+### 14 April 2026 20:50 UTC
+
+    <fax> hormrmlslgjgidjf
+    * NCarter calls an exorcist.
+    (later)
+    <fax> GRUHBOJBKBPHHFH! SCHMDMKIDFJKDKJK
+
 ### 12 September 2025 18:30 UTC
 
     <NCarter> You could have 66 abortions instead of that GPU _and_ make the government sad about the ageing population problem.
