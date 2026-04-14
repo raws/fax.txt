@@ -1,0 +1,120 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+PROJECT_ROOT="$(dirname "$SCRIPT_DIR")"
+README="$PROJECT_ROOT/README.md"
+OUTPUT="$PROJECT_ROOT/fax.json"
+
+awk '
+BEGIN {
+    months["January"]   = "01"
+    months["February"]  = "02"
+    months["March"]     = "03"
+    months["April"]     = "04"
+    months["May"]       = "05"
+    months["June"]      = "06"
+    months["July"]      = "07"
+    months["August"]    = "08"
+    months["September"] = "09"
+    months["October"]   = "10"
+    months["November"]  = "11"
+    months["December"]  = "12"
+    current_at = ""
+    lines_json = ""
+    line_count = 0
+}
+
+function json_escape(s,    i, c, out) {
+    out = ""
+    for (i = 1; i <= length(s); i++) {
+        c = substr(s, i, 1)
+        if      (c == "\\") out = out "\\\\"
+        else if (c == "\"") out = out "\\\""
+        else if (c == "\t") out = out "\\t"
+        else if (c == "\r") out = out "\\r"
+        else                out = out c
+    }
+    return out
+}
+
+function flush_quote() {
+    if (current_at != "" && line_count > 0)
+        printf "{\"at\":\"%s\",\"lines\":[%s]}\n", current_at, lines_json
+    lines_json = ""
+    line_count = 0
+}
+
+/^##### / {
+    flush_quote()
+    header = substr($0, 7)
+    if (header ~ /^Sometime in /) {
+        split(header, p, " ")
+        # "Sometime in <Month> <Year>" -> p[3]=Month p[4]=Year
+        current_at = p[4] "-" months[p[3]] "-01T00:00:00Z"
+    } else {
+        split(header, p, " ")
+        # "<Day> <Month> <Year> <HH:MM> UTC"
+        current_at = p[3] "-" months[p[2]] "-" sprintf("%02d", p[1] + 0) "T" p[4] ":00Z"
+    }
+    next
+}
+
+/^    / {
+    line = substr($0, 5)
+
+    if (substr(line, 1, 1) == "(") {
+        # Comment: strip outer parens
+        content = json_escape(substr(line, 2, length(line) - 2))
+        obj = "{\"type\":\"comment\",\"content\":\"" content "\"}"
+
+    } else if (substr(line, 1, 1) == "*") {
+        # Action: one or more leading asterisks
+        rest = line
+        sub(/^\*+ */, "", rest)
+        if (substr(rest, 1, 1) == "<") {
+            # * <nick> content
+            gt = index(rest, ">")
+            nick    = json_escape(substr(rest, 2, gt - 2))
+            content = substr(rest, gt + 1)
+            sub(/^ */, "", content)
+            content = json_escape(content)
+        } else {
+            # * nick content
+            sp = index(rest, " ")
+            if (sp > 0) {
+                nick    = json_escape(substr(rest, 1, sp - 1))
+                content = json_escape(substr(rest, sp + 1))
+            } else {
+                nick    = json_escape(rest)
+                content = ""
+            }
+        }
+        obj = "{\"type\":\"action\",\"nick\":\"" nick "\",\"content\":\"" content "\"}"
+
+    } else if (substr(line, 1, 1) == "<") {
+        # Regular message: <nick> content
+        gt      = index(line, ">")
+        nick    = json_escape(substr(line, 2, gt - 2))
+        content = substr(line, gt + 1)
+        sub(/^ */, "", content)
+        content = json_escape(content)
+        obj = "{\"type\":\"message\",\"nick\":\"" nick "\",\"content\":\"" content "\"}"
+
+    } else {
+        next
+    }
+
+    if (line_count > 0)
+        lines_json = lines_json "," obj
+    else
+        lines_json = obj
+    line_count++
+}
+
+END {
+    flush_quote()
+}
+' "$README" | jq -s '.' > "$OUTPUT"
+
+echo "Written to $OUTPUT"
